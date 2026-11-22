@@ -1,0 +1,21 @@
+{
+  "weights": {
+    "tool_sensitivity": 0.30,
+    "param_risk": 0.25,
+    "taint": 0.25,
+    "privilege_level": 0.10,
+    "chain_risk": 0.10
+  },
+  "thresholds": {
+    "allow": 0.30,
+    "downgrade": 0.60,
+    "approval": 0.85
+  },
+  "tool_sensitivity": {
+    "read": 0.1,
+    "write": 0.5,
+    "sensitive": 0.9,
+    "destructive": 0.9,
+    "unknown": 0.5
+  }
+}

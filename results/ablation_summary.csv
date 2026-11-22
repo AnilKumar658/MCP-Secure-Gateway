@@ -1,0 +1,7 @@
+config,attack_block_rate_%,benign_completion_%,false_positive_rate_%,attack_attempted_%,block_given_attempt_%,mean_latency_ms,benign_total,attack_total
+L0,0.0,100.0,0.0,100.0,0.0,0.024,15,25
+L2,84.0,40.0,60.0,100.0,84.0,0.026,15,25
+L3,0.0,100.0,0.0,100.0,0.0,0.030,15,25
+P1,92.0,100.0,0.0,100.0,92.0,0.063,15,25
+P12,100.0,100.0,0.0,100.0,100.0,0.078,15,25
+P123,100.0,100.0,0.0,100.0,100.0,0.130,15,25
